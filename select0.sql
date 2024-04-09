@@ -1,0 +1,1 @@
+SELECT * FROM grades where id_stud=?

@@ -1,0 +1,1 @@
+SELECT s.name, t.name FROM subjects as s LEFT JOIN teachers as t WHERE t.name LIKE ? AND s.id_teacher=t.id

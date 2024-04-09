@@ -1,0 +1,1 @@
+SELECT name FROM students where id_groups=?
